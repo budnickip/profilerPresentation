@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/profilerPresentation/static/css/main.5b673b11.chunk.css",
+    "main.js": "/profilerPresentation/static/js/main.0b280e67.chunk.js",
+    "main.js.map": "/profilerPresentation/static/js/main.0b280e67.chunk.js.map",
+    "runtime-main.js": "/profilerPresentation/static/js/runtime-main.9972af60.js",
+    "runtime-main.js.map": "/profilerPresentation/static/js/runtime-main.9972af60.js.map",
+    "static/js/2.c2b107df.chunk.js": "/profilerPresentation/static/js/2.c2b107df.chunk.js",
+    "static/js/2.c2b107df.chunk.js.map": "/profilerPresentation/static/js/2.c2b107df.chunk.js.map",
+    "index.html": "/profilerPresentation/index.html",
+    "static/css/main.5b673b11.chunk.css.map": "/profilerPresentation/static/css/main.5b673b11.chunk.css.map",
+    "static/js/2.c2b107df.chunk.js.LICENSE.txt": "/profilerPresentation/static/js/2.c2b107df.chunk.js.LICENSE.txt",
+    "static/media/1dobre.13ce9177.png": "/profilerPresentation/static/media/1dobre.13ce9177.png",
+    "static/media/1dobre.9b309312.png": "/profilerPresentation/static/media/1dobre.9b309312.png",
+    "static/media/1dobre.d8164ab6.png": "/profilerPresentation/static/media/1dobre.d8164ab6.png",
+    "static/media/1zle.1acfcf2f.png": "/profilerPresentation/static/media/1zle.1acfcf2f.png",
+    "static/media/1zle.5770e894.png": "/profilerPresentation/static/media/1zle.5770e894.png",
+    "static/media/1zle.7c05d553.png": "/profilerPresentation/static/media/1zle.7c05d553.png",
+    "static/media/1zlezamkniecie.19944a24.png": "/profilerPresentation/static/media/1zlezamkniecie.19944a24.png",
+    "static/media/2dobre.a38f6740.png": "/profilerPresentation/static/media/2dobre.a38f6740.png",
+    "static/media/2dobre.b13afc4a.png": "/profilerPresentation/static/media/2dobre.b13afc4a.png",
+    "static/media/2dobrezamkniecie.afd6859f.png": "/profilerPresentation/static/media/2dobrezamkniecie.afd6859f.png",
+    "static/media/2zle.62958992.png": "/profilerPresentation/static/media/2zle.62958992.png",
+    "static/media/2zle.863a1163.png": "/profilerPresentation/static/media/2zle.863a1163.png",
+    "static/media/3dobre.9621ca58.png": "/profilerPresentation/static/media/3dobre.9621ca58.png",
+    "static/media/3zle.a71af00b.png": "/profilerPresentation/static/media/3zle.a71af00b.png",
+    "static/media/callback.4e9b6587.png": "/profilerPresentation/static/media/callback.4e9b6587.png",
+    "static/media/flameChart.1b2c1f75.png": "/profilerPresentation/static/media/flameChart.1b2c1f75.png",
+    "static/media/intalacja.058b2f8c.mp4": "/profilerPresentation/static/media/intalacja.058b2f8c.mp4",
+    "static/media/logo.103b5fa1.svg": "/profilerPresentation/static/media/logo.103b5fa1.svg",
+    "static/media/profilerComponent.54695794.png": "/profilerPresentation/static/media/profilerComponent.54695794.png",
+    "static/media/profilerComponentCallback.cd9a1c3b.png": "/profilerPresentation/static/media/profilerComponentCallback.cd9a1c3b.png",
+    "static/media/rankedChar.b27555f8.png": "/profilerPresentation/static/media/rankedChar.b27555f8.png",
+    "static/media/useMemo.c1ad4c89.png": "/profilerPresentation/static/media/useMemo.c1ad4c89.png",
+    "static/media/useMemo2.d4f9648b.png": "/profilerPresentation/static/media/useMemo2.d4f9648b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9972af60.js",
+    "static/js/2.c2b107df.chunk.js",
+    "static/css/main.5b673b11.chunk.css",
+    "static/js/main.0b280e67.chunk.js"
+  ]
+}
