@@ -1,0 +1,84 @@
+/* .container{
+    background-image: url('../../assets/firstSlide.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+} */
+.container{
+    text-align: center;
+}
+  
+.App-logo {
+    height: 40vmin;
+    pointer-events: none;
+}
+  
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+  
+.header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+  
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+}
+
+.header__text{
+    color: #61DAFB;
+    z-index: 2;
+}
+
+.shine {
+    position: fixed;
+    bottom: 0;
+    right: 10px;
+    z-index: 2;
+	font-size: 1em;
+	margin: 0 auto;
+	margin-bottom: 1em;
+	font-weight: bold;
+}
+
+.shine {
+	background: #222 -webkit-gradient(linear, left top, right top, from(#222), to(#222), color-stop(0.5, #fff)) 0 0 no-repeat;
+	background-size: 150px;
+	color: rgba(255, 255, 255, 0.3);
+	background-clip: text;
+	animation-name: shine;
+	animation-duration: 4s;
+	animation-iteration-count: infinite;
+	text-shadow: 0 0px 0px rgba(255, 255, 255, 0.5);
+}
+
+@keyframes shine {
+	0%, 10% {
+		background-position: -1000px;
+	}
+	20% {
+		background-position: top left;
+	}
+	90% {
+		background-position: top right;
+	}
+	100% {
+		background-position: 1000px;
+	}
+}
